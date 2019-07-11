@@ -16,7 +16,9 @@ its safe
 am going to list some of the tech i have used and hope that you might read on them later;
 HTML,CSS,JavaScript
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+if you run itno any issue/issues feel free to contact us;
+mikelkarije@gmail.com
+07938746667736
 ### License
 *MIT*
 Copyright (c) 2019 **{michael maina**
